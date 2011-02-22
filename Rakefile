@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "rack-accept_language"
   gem.homepage = "http://github.com/miyucy/rack-accept_language"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{HTTP_ACCEPT_LANGUAGE parser}
+  gem.description = %Q{HTTP_ACCEPT_LANGUAGE parser}
   gem.email = "miyucy@gmail.com"
   gem.authors = ["miyucy"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
